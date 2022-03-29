@@ -20,3 +20,11 @@ function multiply(a, b){
     return  a * b
 } 
 ```
+## Courses
+* HTML and CSS (htmlacademy.ru)
+* RS School Course «JavaScript/Front-end. Stage 1» (in progress)
+* Fungi Studio 3D environment artist
+## Languages
+* Russian - Native
+* Belarussian - intermediate
+* English - Basic.
